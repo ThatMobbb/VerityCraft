@@ -119,7 +119,7 @@ Copy the downloaded Verity JE mod files into the **mods** folder.
 
 **Do NOT only download the main mod file.**
 
-Go to the **Releases** page and click **"All Files."**
+You need to press, "All Files."** When prompted if you want to install files on curseforge only.
 
 Download **every required file** listed there.
 
