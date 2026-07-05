@@ -166,7 +166,7 @@ Check out the playthrough:
 
 **🎮 Adding Guns to the Verity Mod...**
 
-*(Insert video link here.)*
+*https://www.youtube.com/watch?v=kVxyBlewQZY*
 
 ---
 
@@ -176,7 +176,7 @@ Watch the official trailer for Verity JE:
 
 **🎬 Trailer**
 
-*(Insert trailer link here.)*
+*https://youtu.be/hGBROjRqyDM?si=13ZdNrCZzLL4_yN*
 
 ---
 
